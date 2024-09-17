@@ -36,7 +36,7 @@ At C.O.D.E., we focus on three key areas:
 
 ## 💡 **How to Get Involved**
 
-- **Join us on Discord**: [Join our C.O.D.E. Slack](https://join.slack.com/t/communityofde-kw69334/shared_invite/zt-2qrn5ee74-S~c1OCAEPY89U41z4nDPiw)  
+- **Join us on Slack**: [Join our C.O.D.E. Slack](https://join.slack.com/t/communityofde-kw69334/shared_invite/zt-2qrn5ee74-S~c1OCAEPY89U41z4nDPiw)  
 - **Follow us on GitHub**: [C.O.D.E. GitHub](https://github.com/your-club-github)  
 - **Check out our events calendar** for upcoming activities!
 
@@ -60,6 +60,6 @@ At **C.O.D.E.**, our mission is to help students develop the skills and confiden
 Have any questions or ideas? Reach out to us!
 
 - **Email**: saviojabbo@ucmerced.edu  
-- **Discord**: [Join the conversation!](https://join.slack.com/t/communityofde-kw69334/shared_invite/zt-2qrn5ee74-S~c1OCAEPY89U41z4nDPiw)  
+- **Slack**: [Join the conversation!](https://join.slack.com/t/communityofde-kw69334/shared_invite/zt-2qrn5ee74-S~c1OCAEPY89U41z4nDPiw)  
 - **Instagram**: [Follow our Instagram!](https://www.instagram.com/ucm.code/)
 
