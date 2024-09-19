@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Community of Developers and Engineers! 🌟
 
-### 🚀 Empowering Students to Build, Learn, and Grow Together
+### 🚀 Empowering Students to Build, Learn, and Grow Together!
 
 Welcome to **C.O.D.E.**, where we bring together aspiring developers and engineers to collaborate on projects, enhance resumes, and seize career opportunities. Whether you're just starting out or you're well on your way, C.O.D.E. is here to help you take the next step in your tech journey!
 
